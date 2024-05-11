@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(248, 162, 162);
+    margin: 0;
+    justify-content: center;
+}
+
+header{
+    background-image: url(https://i0.wp.com/www.buenmercadoacasa.com/blog/wp-content/uploads/2018/05/variedades-de-manzanas-buenmercadoacasa-portada.jpg?fit=2880%2C1800&ssl=1);
+    padding: 7%;
+    margin: 0px 200px;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+main{
+    background-color: aliceblue;
+    text-align: center;
+    padding: 7%;
+    margin: 0px 200px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: normal;
+}
+
+.canasta{
+    max-width: 40%;
+    margin:0px 500px 0px;
+}
+
+.incitar{
+    background-color: rgb(252, 202, 202);
+    max-width: 80%;
+    margin:0px 200px 0px;
+
+}
+
+.fila {
+    display: flex;
+}
+
+.columna {
+    flex: 1;
+    padding: 10px;
+}
+
+.manzana{
+    max-width: 60%;
+}
+
+.Testimonios{
+    background-color: rgb(218, 110, 110);
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+
+}
+
